@@ -1,0 +1,65 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background-color: #0056b3;
+}
+
+/* Logo container */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* space between logo and text */
+  text-decoration: none;
+}
+
+/* Logo image */
+.logo img {
+  height: 50px;
+  width: auto;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* DYPCET text */
+.logo h3 {
+  color: #fff;
+  font-size: 22px;
+  margin: 0;
+  font-weight: bold;
+}
+
+/* Navigation links */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.nav-links li a:hover {
+  color: #ff6600;
+}
+
+/* Apply Now button */
+.apply-btn {
+  background-color: #ff6600;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #fff;
+  transition: background 0.3s ease;
+}
+
+.apply-btn:hover {
+  background-color: #e65c00;
+}
