@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DYPCET/static/css/main.b5f623f6.css",
+    "main.js": "/DYPCET/static/js/main.6f530b82.js",
+    "static/js/453.9b2ae039.chunk.js": "/DYPCET/static/js/453.9b2ae039.chunk.js",
+    "static/media/architecture-banner.jpg": "/DYPCET/static/media/architecture-banner.c7c2d65ec9d2b3505169.jpg",
+    "index.html": "/DYPCET/index.html",
+    "main.b5f623f6.css.map": "/DYPCET/static/css/main.b5f623f6.css.map",
+    "main.6f530b82.js.map": "/DYPCET/static/js/main.6f530b82.js.map",
+    "453.9b2ae039.chunk.js.map": "/DYPCET/static/js/453.9b2ae039.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f623f6.css",
+    "static/js/main.6f530b82.js"
+  ]
+}
